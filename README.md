@@ -1,2 +1,2 @@
 # songcrud
-music app
+simple music app
